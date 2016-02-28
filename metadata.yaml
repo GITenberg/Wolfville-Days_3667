@@ -1,0 +1,34 @@
+_repo: Wolfville-Days_3667
+creator:
+  author:
+    agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Humorous stories, American'
+- !lcc 'PS'
+- !lcsh 'Arizona -- Fiction'
+tableOfContents: The great Wolfville strike -- The grinding of Dave Tutt -- The feud
+  of Pickles -- Johnny Florer's axle grease -- Toothpick Johnson's ostracism -- The
+  Wolfville Daily Coyote -- Cherokee Hall plays poker -- The treachery of Curly Ben
+  -- Colonel Sterett's reminiscences -- How the dumb man rode -- How Prince Hal got
+  help -- How Wolfville made a jest -- Death and the Donna Anna -- How Jack Rainey
+  quit -- The defiance of Gene Watkins -- Colonel Sterett's war record -- Old Man
+  Enright's love -- When Whiskey Billy died -- When the stage was stopped.
+title: Wolfville Days
+url: http://www.gutenberg.org/ebooks/3667

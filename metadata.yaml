@@ -1,5 +1,5 @@
 _repo: Wolfville-Days_3667
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Humorous stories, American'
 - !lcc 'PS'
 - !lcsh 'Arizona -- Fiction'
+- GITenberg
 tableOfContents: The great Wolfville strike -- The grinding of Dave Tutt -- The feud
   of Pickles -- Johnny Florer's axle grease -- Toothpick Johnson's ostracism -- The
   Wolfville Daily Coyote -- Cherokee Hall plays poker -- The treachery of Curly Ben
